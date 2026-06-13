@@ -5,7 +5,7 @@ const items = [
   { to: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
   { to: "/generate", label: "Question Generator", icon: Sparkles },
   { to: "/resume", label: "Resume Questions", icon: UserRoundSearch },
-  { to: "/job-description", label: "JD Analyzer", icon: ScanSearch },
+  { to: "/job-description", label: "Job Description Analyzer", icon: ScanSearch },
   { to: "/mock-interview", label: "Mock Interview", icon: MessageSquareText },
   { to: "/history", label: "History", icon: FileStack },
 ];
