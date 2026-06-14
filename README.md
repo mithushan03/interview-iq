@@ -569,9 +569,9 @@ Developed by **Mithushan**
 ### Connect
 
 - 🌐 Live App: [InterviewIQ](https://interview-roan-five.vercel.app/)
-- 💻 GitHub: [https://github.com/mithushan03](https://github.com/mithushan03))
+- 💻 GitHub: [https://github.com/mithushan03](https://github.com/mithushan03)
 - 🔗 LinkedIn: [https://linkedin.com/in/mithu03](https://linkedin.com/in/mithu03)
-- 📧 Email: smithushan03@ggmail.com
+- 📧 Email: smithushan03@gmail.com
 
 ---
 
